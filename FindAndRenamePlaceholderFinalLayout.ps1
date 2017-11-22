@@ -1,3 +1,5 @@
+#find all items in maybe an incorrectly defined PH and update the PH to the correct name
+#might also be used for bulk moves, maybe a layout refactor
 $startPath = "/sitecore/content/Site/Folder"
 $oldPlaceholder = "Interior Hero"
 $newPlaceholder = "Interior-Hero"

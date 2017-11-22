@@ -1,1 +1,2 @@
+#recursively get all items of a language and aggresively copy content to new language
 Get-ChildItem "master:/sitecore/content/Site" -Recurse | Add-ItemLanguage -Language "en-gb" -TargetLanguage "en" -IfExist OverwriteLatest
