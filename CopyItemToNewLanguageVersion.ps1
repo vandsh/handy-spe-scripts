@@ -1,0 +1,1 @@
+Get-ChildItem "master:/sitecore/content/Site" -Recurse | Add-ItemLanguage -Language "en-gb" -TargetLanguage "en" -IfExist OverwriteLatest
