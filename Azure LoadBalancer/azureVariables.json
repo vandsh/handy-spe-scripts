@@ -1,0 +1,11 @@
+{
+	"subscriptionId": "000000-0000-0000-0000-8675309",
+	"profilePath": "C:\\vstsagent\\A1\\Azure LoadBalancer\\AzureProfile.json",
+	"nicName": "P-WIN-CD-01-nic",
+	"resourceGroupName": "eastus2-RSG-yoursite-PRD",
+	"lbName": "ELB-PROD-CD",
+	"poolName": "BackendPool-P-CD",
+	"iisSiteName": "SCPRODCDS",
+	"appGateway": "P-AGW-01",
+	"appGatewayPoolName": "appGatewayBackendPool"
+}
